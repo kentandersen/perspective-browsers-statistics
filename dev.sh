@@ -1,0 +1,1 @@
+USERAGENT_FILE="./uastrings_pm.txt" SERVER_PORT=8888 SERVER_ALLOWED_ORIGIN="http://localhost:8000" nodemon index.js

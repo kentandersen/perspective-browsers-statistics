@@ -1,0 +1,36 @@
+{
+  "name": "perspective-browsers-statistics",
+  "version": "0.0.1",
+  "description": "",
+  "bugs": {
+    "url": "http://github.com/perspective/perspective-jenkins/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perspective/perspective-jenkins.git"
+  },
+  "contributors": [
+    "Hans Magnus Inderberg <hinderberg@gmail.com> (http://hinderberg.no/)",
+    "Mads Mobœk <> ()",
+    "Kent Andersen <kentareandersen@gmail.com> (http://kentandersen.no/)"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "index.js",
+  "dependencies": {
+    "perspective-core": "*",
+    "perspective-core-server": "*",
+    "perspective-core-rest": "*",
+    "perspective-core-web-socket": "*",
+    "request": "~2.27.0",
+    "q": "~0.9.7",
+    "underscore": "~1.4.4",
+    "byline": "~3.1.2",
+    "useragent": "~2.0.7"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "should": "~2.0.2",
+    "sinon": "~1.7.3"
+  }
+}
